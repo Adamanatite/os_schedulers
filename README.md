@@ -1,4 +1,4 @@
-# os_schedulers
+# OS Scheduler Implementations
 Python code to represent the behaviour of various OS schedulers
 
 # Schedulers:
